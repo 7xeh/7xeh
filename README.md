@@ -32,13 +32,3 @@ Always experimenting — sometimes it works, sometimes it’s chaos.
 ## 🌍 Connect with Me
 [![Website](https://img.shields.io/badge/Website-thewicked.dev-red?style=for-the-badge)](https://fkyou.xyz/7xeh)  
 
----
-
-## 🎭 Fun Stuff
-- 🌱 Currently learning more about **engine tuning** & **security systems**
-- 🎮 Roblox scripting, FPS games, and indie coding projects keep me busy
-- 😎 Motto: *“Break it, fix it, make it better.”*
-
----
-
-💻 *Made with caffeine + late nights*
