@@ -30,9 +30,7 @@ Always experimenting — sometimes it works, sometimes it’s chaos.
 ---
 
 ## 🌍 Connect with Me
-[![Website](https://img.shields.io/badge/Website-thewicked.dev-red?style=for-the-badge)](https://thewicked.dev)  
-[![YouTube](https://img.shields.io/badge/YouTube-7xeh-red?style=for-the-badge&logo=youtube)](https://youtube.com/@7xeh)  
-[![Discord](https://img.shields.io/badge/Discord-ZeroUI-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)  
+[![Website](https://img.shields.io/badge/Website-thewicked.dev-red?style=for-the-badge)](https://fkyou.xyz/7xeh)  
 
 ---
 
