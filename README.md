@@ -7,9 +7,10 @@ Always experimenting — sometimes it works, sometimes it’s chaos.
 ---
 
 ## 🚀 What I’m Working On
-- **[ZeroUI](https://github.com/7xeh/ZeroUI)** → Sleek, modular Discord theme for Vencord
-- **[RbxSkyGen](https://github.com/7xeh/RbxSkyGen)** → Convert HDRIs/images into custom Roblox skyboxes
-- Expanding **[TheWicked.dev](https://thewicked.dev)** → utilities, dashboards, & premium features
+- **[ZeroUI](https://github.com/7xeh/ZeroUI)** → Sleek, modular Discord theme for Vencord  
+- **[RbxSkyGen](https://github.com/7xeh/RbxSkyGen)** → Convert HDRIs/images into custom Roblox skyboxes  
+- Expanding **[TheWicked.dev](https://thewicked.dev)** → utilities, dashboards, & premium features  
+- **[RbxCacheBrowser](https://github.com/7xeh/RbxCacheBrowser)** → Tool for extracting Roblox cache (hashes, oggs)  
 
 ---
 
@@ -34,4 +35,26 @@ Always experimenting — sometimes it works, sometimes it’s chaos.
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+**IDE:**  
+![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+**OS:**  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+**Other Tools:**  
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
 ---
+
+## 🌐 Links
+- [Website – TheWicked.dev](https://thewicked.dev)  
+- [YouTube – 7xeh](https://youtube.com/@7xeh)  
+- [Shadow Buds](https://youtube.com/@ShadowBuds)  
+
+---
+
+## 💬 Discord
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-3/785035260852830219.png" alt="Discord Profile Widget"/>
+</p>
