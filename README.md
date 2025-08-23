@@ -22,6 +22,7 @@ Always experimenting — sometimes it works, sometimes it’s chaos.
 ---
 
 ## 🛠️ Tech & Tools
+
 **Languages:**  
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -36,10 +37,18 @@ Always experimenting — sometimes it works, sometimes it’s chaos.
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 **IDE:**  
-![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <a href="https://code.visualstudio.com/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=dark" />
+  </a>
+</p>
 
 **OS:**  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=windows&theme=dark" />
+  </a>
+</p>
 
 **Other Tools:**  
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
