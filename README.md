@@ -45,7 +45,7 @@ Always experimenting — sometimes it works, sometimes it’s chaos.
 
 **OS:**  
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
+  <a>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=windows&theme=dark" />
   </a>
 </p>
