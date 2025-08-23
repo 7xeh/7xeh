@@ -10,6 +10,7 @@ Always experimenting — sometimes it works, sometimes it’s chaos.
 - **[ZeroUI](https://github.com/7xeh/ZeroUI)** → Sleek, modular Discord theme for Vencord  
 - **[RbxSkyGen](https://github.com/7xeh/RbxSkyGen)** → Convert HDRIs/images into custom Roblox skyboxes  
 - Expanding **[TheWicked.dev](https://thewicked.dev)** → utilities, dashboards, & premium features  
+- **[RbxCacheBrowser](https://github.com/7xeh/RbxCacheBrowser)** → Tool for extracting Roblox cache (hashes, oggs)  
 
 ---
 
