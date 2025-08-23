@@ -55,13 +55,6 @@ Always experimenting — sometimes it works, sometimes it’s chaos.
 
 ---
 
-## 🌐 Links
-- [Website – TheWicked.dev](https://thewicked.dev)  
-- [YouTube – 7xeh](https://youtube.com/@7xeh)  
-- [Shadow Buds](https://youtube.com/@ShadowBuds)  
-
----
-
 ## 💬 Discord
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/785035260852830219.png" alt="Discord Profile Widget"/>
