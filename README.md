@@ -64,5 +64,5 @@ Always experimenting — sometimes it works, sometimes it’s chaos.
 
 ## 💬 Discord
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/785035260852830219.png" alt="Discord Profile Widget"/>
+  <img src="https://discord.c99.nl/widget/theme-4/785035260852830219.png" alt="Discord Profile Widget"/>
 </p>
