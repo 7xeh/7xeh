@@ -32,10 +32,3 @@ Always experimenting — sometimes it works, sometimes it’s chaos.
 
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 💬 Discord
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/785035260852830219.png" alt="Discord Profile Widget"/>
-</p>
