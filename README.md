@@ -1,6 +1,6 @@
-# 👋 Hey, I’m 7xeh
+# Meet 7xeh
 
-⚡ Developer • Designer • Explorer  
+Developer • Designer • Explorer  
 Building tools for Roblox, web, and whatever sparks my curiosity.  
 Always experimenting — sometimes it works, sometimes it’s chaos.  
 
