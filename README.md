@@ -1,7 +1,6 @@
 # Meet 7xeh
 
-Developer • Designer • Explorer 
-Always experimenting — sometimes it works, sometimes it’s chaos.  
+Developer • Designer • Explorer
 
 ---
 
