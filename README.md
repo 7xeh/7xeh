@@ -33,24 +33,6 @@ Always experimenting — sometimes it works, sometimes it’s chaos.
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-**IDE:**  
-<p align="center">
-  <a href="https://code.visualstudio.com/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=dark" />
-  </a>
-</p>
-
-**OS:**  
-<p align="center">
-  <a>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=windows&theme=dark" />
-  </a>
-</p>
-
-**Other Tools:**  
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
 ---
 
 ## 💬 Discord
