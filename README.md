@@ -8,7 +8,6 @@ Always experimenting — sometimes it works, sometimes it’s chaos.
 
 ## 🚀 What I’m Working On
 - **[ZeroUI](https://github.com/7xeh/ZeroUI)** → Sleek, modular Discord theme for Vencord  
-- Expanding **[TheWicked.dev](https://thewicked.dev)** → utilities, dashboards, & premium features  
 
 ---
 
