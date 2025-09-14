@@ -1,7 +1,6 @@
 # Meet 7xeh
 
-Developer • Designer • Explorer  
-Building tools for Roblox, web, and whatever sparks my curiosity.  
+Developer • Designer • Explorer 
 Always experimenting — sometimes it works, sometimes it’s chaos.  
 
 ---
