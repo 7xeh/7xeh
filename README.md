@@ -4,7 +4,7 @@ Developer • Designer • Explorer
 
 ---
 
-## 🚀 What I’m Working On
+## 🚀 Things I've made
 - **[ZeroUI](https://github.com/7xeh/ZeroUI)** → Discord Theme.
 - **[CarX Blender Tools](https://github.com/7xeh/CarX-Blender-Tools)** → Blender Plugin.
 - **[XehCord](https://github.com/7xeh/XehCord)** → Discord Client.
@@ -15,20 +15,3 @@ Developer • Designer • Explorer
 ![Stats](https://github-readme-stats.vercel.app/api?username=7xeh&show_icons=true&theme=radical&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7xeh&layout=compact&theme=radical&hide_border=true)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=7xeh&theme=radical&hide_border=true)
-
----
-
-## 🛠️ Tech & Tools
-
-**Languages:**  
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
-
-**Frontend / Design:**  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
