@@ -4,7 +4,7 @@ Developer • Designer • Explorer
 
 ---
 
-## 🚀 Things I've made
+## 🚀 Projects
 - **[ZeroUI](https://github.com/7xeh/ZeroUI)** → Discord Theme.
 - **[CarX Blender Tools](https://github.com/7xeh/CarX-Blender-Tools)** → Blender Plugin.
 - **[XehCord](https://github.com/7xeh/XehCord)** → Discord Client.
