@@ -7,8 +7,6 @@ Developer • Designer • Explorer
 ## 🚀 Projects
 - **[CarX Blender Tools](https://github.com/7xeh/CarX-Blender-Tools)** → Blender Plugin.
 - **[ZeroUI](https://github.com/7xeh/ZeroUI)** → Discord Theme.
-- **[XehCord](https://github.com/7xeh/XehCord)** → Discord Client.
-- **[XehInstaller](https://github.com/7xeh/XehInstaller)** → Discord Client Installer.
 
 ---
 
