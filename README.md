@@ -1,7 +1,7 @@
 <h1 align="center">7xeh</h1>
 
 <p align="center">
-	I build practical, usually small projects that remove friction.
+	I build practical, usually small projects that solve almost nothing but annoyance.
 </p>
 
 <p align="center">
@@ -30,7 +30,6 @@
 
 - Developer + designer mindset
 - I like extensions, plugins, and UI that stays out of the way
-- Learning in public, shipping when it’s useful
 
 ---
 
