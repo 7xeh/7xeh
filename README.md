@@ -40,6 +40,7 @@
 | --- | --- | --- |
 | [Spicy Lyric Translate](https://github.com/7xeh/SpicyLyricTranslate) | Spotify extension | ![Stars](https://img.shields.io/github/stars/7xeh/SpicyLyricTranslate?style=flat) ![Last commit](https://img.shields.io/github/last-commit/7xeh/SpicyLyricTranslate?style=flat) |
 | [CarX Blender Tools](https://github.com/7xeh/CarX-Blender-Tools) | Blender plugin | ![Stars](https://img.shields.io/github/stars/7xeh/CarX-Blender-Tools?style=flat) ![Last commit](https://img.shields.io/github/last-commit/7xeh/CarX-Blender-Tools?style=flat) |
+| [NightyScripts](https://github.com/7xeh/NightyScripts) | Scripts / utilities | ![Stars](https://img.shields.io/github/stars/7xeh/NightyScripts?style=flat) ![Last commit](https://img.shields.io/github/last-commit/7xeh/NightyScripts?style=flat) |
 | [ZeroUI](https://github.com/7xeh/ZeroUI) | Discord theme | ![Stars](https://img.shields.io/github/stars/7xeh/ZeroUI?style=flat) ![Last commit](https://img.shields.io/github/last-commit/7xeh/ZeroUI?style=flat) |
 
 ---
