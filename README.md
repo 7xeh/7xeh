@@ -30,7 +30,6 @@
 
 - Developer + designer mindset
 - I like extensions, plugins, and UI that stays out of the way
-- Learning in public, shipping when it’s useful
 
 ---
 
