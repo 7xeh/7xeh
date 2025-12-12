@@ -36,20 +36,11 @@
 
 ## Featured work
 
-<p>
-	<a href="https://github.com/7xeh/SpicyLyricTranslate">
-		<img alt="Spicy Lyric Translate" src="https://github-readme-stats.vercel.app/api/pin/?username=7xeh&repo=SpicyLyricTranslate&theme=transparent&hide_border=true" />
-	</a>
-	<a href="https://github.com/7xeh/CarX-Blender-Tools">
-		<img alt="CarX Blender Tools" src="https://github-readme-stats.vercel.app/api/pin/?username=7xeh&repo=CarX-Blender-Tools&theme=transparent&hide_border=true" />
-	</a>
-</p>
-
-<p>
-	<a href="https://github.com/7xeh/ZeroUI">
-		<img alt="ZeroUI" src="https://github-readme-stats.vercel.app/api/pin/?username=7xeh&repo=ZeroUI&theme=transparent&hide_border=true" />
-	</a>
-</p>
+| Project | What it is | Activity |
+| --- | --- | --- |
+| [Spicy Lyric Translate](https://github.com/7xeh/SpicyLyricTranslate) | Spotify extension | ![Stars](https://img.shields.io/github/stars/7xeh/SpicyLyricTranslate?style=flat) ![Last commit](https://img.shields.io/github/last-commit/7xeh/SpicyLyricTranslate?style=flat) |
+| [CarX Blender Tools](https://github.com/7xeh/CarX-Blender-Tools) | Blender plugin | ![Stars](https://img.shields.io/github/stars/7xeh/CarX-Blender-Tools?style=flat) ![Last commit](https://img.shields.io/github/last-commit/7xeh/CarX-Blender-Tools?style=flat) |
+| [ZeroUI](https://github.com/7xeh/ZeroUI) | Discord theme | ![Stars](https://img.shields.io/github/stars/7xeh/ZeroUI?style=flat) ![Last commit](https://img.shields.io/github/last-commit/7xeh/ZeroUI?style=flat) |
 
 ---
 
@@ -60,13 +51,6 @@
 
 ---
 
-## Toolbox (roughly)
-
-- UI/UX: design-first, iterate fast
-- Code: whatever fits the project (extensions, plugins, theming)
-
----
-
 ## Reach me
 
 - GitHub: https://github.com/7xeh
@@ -74,9 +58,7 @@
 
 ---
 
-## GitHub snapshot
+## Snapshot
 
-<p>
-	<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=7xeh&show_icons=true&hide_title=true&hide_rank=true&theme=transparent&hide_border=true" />
-	<img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7xeh&layout=compact&theme=transparent&hide_border=true" />
-</p>
+![Followers](https://img.shields.io/github/followers/7xeh?label=followers&style=flat)
+![Public repos](https://img.shields.io/badge/dynamic/json?style=flat&label=public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2F7xeh)
