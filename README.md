@@ -44,9 +44,3 @@
 ## 📬 Collaborate
 
 The best way to reach me is to open an issue or PR on the relevant repository.
-
-<br />
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=7xeh&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
