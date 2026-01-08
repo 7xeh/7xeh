@@ -48,5 +48,5 @@ The best way to reach me is to open an issue or PR on the relevant repository.
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7xeh&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f0f6fc&text_color=c9d1d9" alt="7xeh's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=7xeh&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
