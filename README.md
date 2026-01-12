@@ -34,10 +34,10 @@
 
 | Project | Category | Status | Latest Update |
 | :--- | :--- | :--- | :--- |
-| [**Spicy Lyric Translate**](https://github.com/7xeh/SpicyLyricTranslate) | Spotify Extension | ![Stars](https://img.shields.io/github/stars/7xeh/SpicyLyricTranslate?style=flat-square) | <!-- COMMIT:SpicyLyricTranslate -->*Updating...*<!-- /COMMIT --> |
-| [**CarX Blender Tools**](https://github.com/7xeh/CarX-Blender-Tools) | Blender Plugin | ![Stars](https://img.shields.io/github/stars/7xeh/CarX-Blender-Tools?style=flat-square) | <!-- COMMIT:CarX-Blender-Tools -->*Updating...*<!-- /COMMIT --> |
-| [**NightyScripts**](https://github.com/7xeh/NightyScripts) | Automation / Scripts | ![Stars](https://img.shields.io/github/stars/7xeh/NightyScripts?style=flat-square) | <!-- COMMIT:NightyScripts -->*Updating...*<!-- /COMMIT --> |
-| [**ZeroUI**](https://github.com/7xeh/ZeroUI) | Discord Theme | ![Stars](https://img.shields.io/github/stars/7xeh/ZeroUI?style=flat-square) | <!-- COMMIT:ZeroUI -->*Updating...*<!-- /COMMIT --> |
+| [**Spicy Lyric Translate**](https://github.com/7xeh/SpicyLyricTranslate) | Spotify Extension | ![Stars](https://img.shields.io/github/stars/7xeh/SpicyLyricTranslate?style=flat-square) | <!-- COMMIT:SpicyLyricTranslate -->Update installer script link in README<!-- /COMMIT --> |
+| [**CarX Blender Tools**](https://github.com/7xeh/CarX-Blender-Tools) | Blender Plugin | ![Stars](https://img.shields.io/github/stars/7xeh/CarX-Blender-Tools?style=flat-square) | <!-- COMMIT:CarX-Blender-Tools -->Add Zip<!-- /COMMIT --> |
+| [**NightyScripts**](https://github.com/7xeh/NightyScripts) | Automation / Scripts | ![Stars](https://img.shields.io/github/stars/7xeh/NightyScripts?style=flat-square) | <!-- COMMIT:NightyScripts -->Rename DeleteDms to Message Cleaner directory<!-- /COMMIT --> |
+| [**ZeroUI**](https://github.com/7xeh/ZeroUI) | Discord Theme | ![Stars](https://img.shields.io/github/stars/7xeh/ZeroUI?style=flat-square) | <!-- COMMIT:ZeroUI -->Remove optimized channel animation styles<!-- /COMMIT --> |
 
 ---
 
