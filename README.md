@@ -32,7 +32,7 @@
 
 ## 🛠️ Featured Work
 
-| Project | Category | Status | Latest Commit |
+| Project | Category | Status | Latest Update |
 | :--- | :--- | :--- | :--- |
 | [**Spicy Lyric Translate**](https://github.com/7xeh/SpicyLyricTranslate) | Spotify Extension | ![Stars](https://img.shields.io/github/stars/7xeh/SpicyLyricTranslate?style=flat-square) | <!-- COMMIT:SpicyLyricTranslate -->*Updating...*<!-- /COMMIT --> |
 | [**CarX Blender Tools**](https://github.com/7xeh/CarX-Blender-Tools) | Blender Plugin | ![Stars](https://img.shields.io/github/stars/7xeh/CarX-Blender-Tools?style=flat-square) | <!-- COMMIT:CarX-Blender-Tools -->*Updating...*<!-- /COMMIT --> |

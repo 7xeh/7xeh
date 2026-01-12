@@ -35,18 +35,24 @@ jobs:
           cp README.md README.tmp
           
           for repo in "${repos[@]}"; do
-            # Get the latest commit message (first line only, max 50 chars)
-            commit_msg=$(gh api repos/$repo/commits --jq '.[0].commit.message' 2>/dev/null | head -n 1 | cut -c1-50)
+            # Get the latest commit message (first line only, max 40 chars)
+            commit_msg=$(gh api repos/$repo/commits --jq '.[0].commit.message' 2>/dev/null | head -n 1 | cut -c1-40)
             
-            if [ -n "$commit_msg" ]; then
+            # Get the latest commit date (formatted as YYYY-MM-DD)
+            commit_date=$(gh api repos/$repo/commits --jq '.[0].commit.committer.date' 2>/dev/null | cut -c1-10)
+            
+            if [ -n "$commit_msg" ] && [ -n "$commit_date" ]; then
               # Escape special characters for sed
               escaped_msg=$(echo "$commit_msg" | sed 's/[&/\]/\\&/g' | sed 's/|/\\|/g')
               
               # Get repo name for matching
               repo_name=$(echo "$repo" | cut -d'/' -f2)
               
+              # Combine date and message: `YYYY-MM-DD` - commit message
+              combined="\`$commit_date\` $escaped_msg"
+              
               # Update the placeholder in README
-              sed -i "s|<!-- COMMIT:$repo_name -->.*<!-- /COMMIT -->|<!-- COMMIT:$repo_name -->$escaped_msg<!-- /COMMIT -->|g" README.tmp
+              sed -i "s|<!-- COMMIT:$repo_name -->.*<!-- /COMMIT -->|<!-- COMMIT:$repo_name -->$combined<!-- /COMMIT -->|g" README.tmp
             fi
           done
           
