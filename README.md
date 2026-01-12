@@ -32,12 +32,12 @@
 
 ## 🛠️ Featured Work
 
-| Project | Category | Status |
-| :--- | :--- | :--- |
-| [**Spicy Lyric Translate**](https://github.com/7xeh/SpicyLyricTranslate) | Spotify Extension | ![Stars](https://img.shields.io/github/stars/7xeh/SpicyLyricTranslate?style=flat-square) |
-| [**CarX Blender Tools**](https://github.com/7xeh/CarX-Blender-Tools) | Blender Plugin | ![Stars](https://img.shields.io/github/stars/7xeh/CarX-Blender-Tools?style=flat-square) |
-| [**NightyScripts**](https://github.com/7xeh/NightyScripts) | Automation / Scripts | ![Stars](https://img.shields.io/github/stars/7xeh/NightyScripts?style=flat-square) |
-| [**ZeroUI**](https://github.com/7xeh/ZeroUI) | Discord Theme | ![Stars](https://img.shields.io/github/stars/7xeh/ZeroUI?style=flat-square) |
+| Project | Category | Status | Last Updated |
+| :--- | :--- | :--- | :--- |
+| [**Spicy Lyric Translate**](https://github.com/7xeh/SpicyLyricTranslate) | Spotify Extension | ![Stars](https://img.shields.io/github/stars/7xeh/SpicyLyricTranslate?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/7xeh/SpicyLyricTranslate?style=flat-square&label=&color=323330) |
+| [**CarX Blender Tools**](https://github.com/7xeh/CarX-Blender-Tools) | Blender Plugin | ![Stars](https://img.shields.io/github/stars/7xeh/CarX-Blender-Tools?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/7xeh/CarX-Blender-Tools?style=flat-square&label=&color=323330) |
+| [**NightyScripts**](https://github.com/7xeh/NightyScripts) | Automation / Scripts | ![Stars](https://img.shields.io/github/stars/7xeh/NightyScripts?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/7xeh/NightyScripts?style=flat-square&label=&color=323330) |
+| [**ZeroUI**](https://github.com/7xeh/ZeroUI) | Discord Theme | ![Stars](https://img.shields.io/github/stars/7xeh/ZeroUI?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/7xeh/ZeroUI?style=flat-square&label=&color=323330) |
 
 ---
 
