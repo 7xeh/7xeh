@@ -21,14 +21,6 @@
 
 ---
 
-## ⚡ What I’m about
-
-- **Mindset:** Developer + Designer.
-- **Focus:** Extensions, plugins, and UI that stays out of the way.
-- **Current work:** Polishing existing utilities and removing user friction.
-
----
-
 ## 🛠️ Featured Work
 
 | Project | Category | Status | Latest Update |
