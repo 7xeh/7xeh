@@ -1,16 +1,16 @@
 <h1 align="center">7xeh</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=7xeh&style=flat-square&color=323330" alt="Profile Views" />
+</p>
+
+<p align="center">
   <b>Utility-first developer.</b><br>
   I build practical, small projects that solve specific annoyances.
 </p>
 
 <p align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Lua" src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7xeh&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
 <p align="center">
