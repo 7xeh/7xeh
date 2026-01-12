@@ -1,0 +1,61 @@
+name: Update README with Latest Commits
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Runs every 6 hours
+  workflow_dispatch:  # Allows manual trigger
+  push:
+    branches: [main, master]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Update README with latest commits
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Define repositories
+          repos=(
+            "7xeh/SpicyLyricTranslate"
+            "7xeh/CarX-Blender-Tools"
+            "7xeh/NightyScripts"
+            "7xeh/ZeroUI"
+          )
+          
+          # Create a temporary file
+          cp README.md README.tmp
+          
+          for repo in "${repos[@]}"; do
+            # Get the latest commit message (first line only, max 50 chars)
+            commit_msg=$(gh api repos/$repo/commits --jq '.[0].commit.message' 2>/dev/null | head -n 1 | cut -c1-50)
+            
+            if [ -n "$commit_msg" ]; then
+              # Escape special characters for sed
+              escaped_msg=$(echo "$commit_msg" | sed 's/[&/\]/\\&/g' | sed 's/|/\\|/g')
+              
+              # Get repo name for matching
+              repo_name=$(echo "$repo" | cut -d'/' -f2)
+              
+              # Update the placeholder in README
+              sed -i "s|<!-- COMMIT:$repo_name -->.*<!-- /COMMIT -->|<!-- COMMIT:$repo_name -->$escaped_msg<!-- /COMMIT -->|g" README.tmp
+            fi
+          done
+          
+          mv README.tmp README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet --cached || git commit -m "docs: update latest commit messages"
+          git push

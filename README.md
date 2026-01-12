@@ -32,12 +32,12 @@
 
 ## 🛠️ Featured Work
 
-| Project | Category | Status | Last Updated |
+| Project | Category | Status | Latest Commit |
 | :--- | :--- | :--- | :--- |
-| [**Spicy Lyric Translate**](https://github.com/7xeh/SpicyLyricTranslate) | Spotify Extension | ![Stars](https://img.shields.io/github/stars/7xeh/SpicyLyricTranslate?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/7xeh/SpicyLyricTranslate?style=flat-square&label=&color=323330) |
-| [**CarX Blender Tools**](https://github.com/7xeh/CarX-Blender-Tools) | Blender Plugin | ![Stars](https://img.shields.io/github/stars/7xeh/CarX-Blender-Tools?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/7xeh/CarX-Blender-Tools?style=flat-square&label=&color=323330) |
-| [**NightyScripts**](https://github.com/7xeh/NightyScripts) | Automation / Scripts | ![Stars](https://img.shields.io/github/stars/7xeh/NightyScripts?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/7xeh/NightyScripts?style=flat-square&label=&color=323330) |
-| [**ZeroUI**](https://github.com/7xeh/ZeroUI) | Discord Theme | ![Stars](https://img.shields.io/github/stars/7xeh/ZeroUI?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/7xeh/ZeroUI?style=flat-square&label=&color=323330) |
+| [**Spicy Lyric Translate**](https://github.com/7xeh/SpicyLyricTranslate) | Spotify Extension | ![Stars](https://img.shields.io/github/stars/7xeh/SpicyLyricTranslate?style=flat-square) | <!-- COMMIT:SpicyLyricTranslate -->*Updating...*<!-- /COMMIT --> |
+| [**CarX Blender Tools**](https://github.com/7xeh/CarX-Blender-Tools) | Blender Plugin | ![Stars](https://img.shields.io/github/stars/7xeh/CarX-Blender-Tools?style=flat-square) | <!-- COMMIT:CarX-Blender-Tools -->*Updating...*<!-- /COMMIT --> |
+| [**NightyScripts**](https://github.com/7xeh/NightyScripts) | Automation / Scripts | ![Stars](https://img.shields.io/github/stars/7xeh/NightyScripts?style=flat-square) | <!-- COMMIT:NightyScripts -->*Updating...*<!-- /COMMIT --> |
+| [**ZeroUI**](https://github.com/7xeh/ZeroUI) | Discord Theme | ![Stars](https://img.shields.io/github/stars/7xeh/ZeroUI?style=flat-square) | <!-- COMMIT:ZeroUI -->*Updating...*<!-- /COMMIT --> |
 
 ---
 
