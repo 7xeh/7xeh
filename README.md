@@ -34,4 +34,4 @@
 
 ## 📬 Collaborate
 
-The best way to reach me is to open an issue or PR on the relevant repository.
+The best way to reach me is to open an issue or PR on the relevant repository, or contact me via email at [7xeh@7xeh.dev](mailto:7xeh@7xeh.dev).
