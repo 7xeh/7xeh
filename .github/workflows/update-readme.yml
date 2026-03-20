@@ -1,18 +1,9 @@
 name: Update README with Latest Commits
 
-
-
 on:
-
   schedule:
-
     - cron: '0 */6 * * *'  # Runs every 6 hours
-
   workflow_dispatch:  # Allows manual trigger
-
-  push:
-
-    branches: [main, master]
 
 
 
@@ -90,7 +81,7 @@ jobs:
 
               # Escape special characters for sed
 
-              escaped_msg=$(echo "$commit_msg" | sed 's/[&/\]/\\&/g' | sed 's/|/\\|/g')
+              escaped_msg=$(echo "$commit_msg" | sed 's/[&/\\]/\\&/g' | sed 's/#/\\#/g' | sed 's/|/\\|/g')
 
               
 
@@ -108,7 +99,7 @@ jobs:
 
               # Update the placeholder in README
 
-              sed -i "s|<!-- COMMIT:$repo_name -->.*<!-- /COMMIT -->|<!-- COMMIT:$repo_name -->$combined<!-- /COMMIT -->|g" README.tmp
+              sed -i "s#<!-- COMMIT:$repo_name -->.*<!-- /COMMIT -->#<!-- COMMIT:$repo_name -->$combined<!-- /COMMIT -->#g" README.tmp
 
             fi
 
