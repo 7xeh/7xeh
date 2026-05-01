@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://7xeh.dev"><b>Portfolio</b></a> • <a href="https://auris.gg"><b>Auris</b></a>
+  <a href="https://7xeh.dev"><b>Portfolio</b></a> • <a href="https://7softworks.com"><b>7softworks</b></a>
 </p>
 
 <p align="center">
