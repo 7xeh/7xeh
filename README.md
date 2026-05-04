@@ -30,7 +30,7 @@
 | Project | Category | Status | Latest Update |
 | :--- | :--- | :--- | :--- |
 | [**Spicy Lyric Translate**](https://github.com/7xeh/SpicyLyricTranslate) | Spotify Extension | ![Stars](https://img.shields.io/github/stars/7xeh/SpicyLyricTranslate?style=flat-square&color=1DB954) | <!-- COMMIT:SpicyLyricTranslate -->`2026-03-13` v1.9.3<!-- /COMMIT -->
-| [**SpicyThemes**](https://github.com/7xeh/SpicyThemes) | Spotify Extension | ![Stars](https://img.shields.io/github/stars/7xeh/SpicyThemes?style=flat-square&color=1DB954) | <!-- COMMIT:SpicyThemes -->`2026-05-03` v.1.1.2<!-- /COMMIT --> |
+| [**SpicyThemes**](https://github.com/7xeh/SpicyThemes) | Spotify Extension | ![Stars](https://img.shields.io/github/stars/7xeh/SpicyThemes?style=flat-square&color=1DB954) | <!-- COMMIT:SpicyThemes -->`2026-05-04` Revise README with new features and supp<!-- /COMMIT --> |
 | [**CarX Blender Tools**](https://github.com/7xeh/CarX-Blender-Tools) | Blender Plugin | ![Stars](https://img.shields.io/github/stars/7xeh/CarX-Blender-Tools?style=flat-square&color=E87D0D) | <!-- COMMIT:CarX-Blender-Tools -->`2025-12-12` Add Zip<!-- /COMMIT --> |
 | [**NightyScripts**](https://github.com/7xeh/NightyScripts) | Automation / Scripts | ![Stars](https://img.shields.io/github/stars/7xeh/NightyScripts?style=flat-square&color=a855f7) | <!-- COMMIT:NightyScripts -->`2025-12-12` Rename DeleteDms to Message Cleaner dire<!-- /COMMIT --> |
 
