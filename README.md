@@ -1,14 +1,6 @@
 <h1 align="center">7xeh</h1>
 
 <p align="center">
-  <sub>I build tools that remove friction, automate the boring stuff, and make software work the way it should.</sub>
-</p>
-
-<p align="center">
-  <a href="https://7xeh.dev"><b>Portfolio</b></a> • 
-</p>
-
-<p align="center">
   <img src="https://github-stats-sepia-ten.vercel.app/api/top-langs/?username=7xeh&layout=compact&theme=radical&hide_border=true&bg_color=00000000&hide=html" alt="Top Languages" />
 </p>
 
