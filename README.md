@@ -1,33 +1,50 @@
 <h1 align="center">7xeh</h1>
 
 <p align="center">
-  <img src="https://github-stats-sepia-ten.vercel.app/api/top-langs/?username=7xeh&layout=compact&theme=radical&hide_border=true&bg_color=00000000&hide=html" alt="Top Languages" />
+  Sup nerd. I build Spicetify extensions, Blender tooling, and Windows automation scripts.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=7xeh&style=flat-square&color=a855f7" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img alt="Windows Tools" src="https://img.shields.io/badge/Windows-Tools-0078D6?style=flat-square&logo=windows&logoColor=white" />
-  <img alt="Blender Addons" src="https://img.shields.io/badge/Blender-Addons-E87D0D?style=flat-square&logo=blender&logoColor=white" />
-  <img alt="Spotify Ext" src="https://img.shields.io/badge/Spotify-Extensions-1DB954?style=flat-square&logo=spotify&logoColor=white" />
-  <img alt="Discord Themes" src="https://img.shields.io/badge/Discord-Themes-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  <a href="https://7xeh.dev"><img alt="Website" src="https://img.shields.io/badge/7xeh.dev-a855f7?style=flat-square&logo=firefoxbrowser&logoColor=white" /></a>
+  <a href="mailto:7xeh@7xeh.dev"><img alt="Email" src="https://img.shields.io/badge/Email-333?style=flat-square&logo=maildotru&logoColor=white" /></a>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=7xeh&style=flat-square&color=a855f7&label=Views" />
 </p>
 
 ---
 
 ## 🛠️ Featured Work
 
-| Project | Category | Status | Latest Update |
-| :--- | :--- | :--- | :--- |
-| [**Spicy Lyric Translate**](https://github.com/7xeh/SpicyLyricTranslate) | Spotify Extension | ![Stars](https://img.shields.io/github/stars/7xeh/SpicyLyricTranslate?style=flat-square&color=1DB954) | <!-- COMMIT:SpicyLyricTranslate -->`2026-03-13` v1.9.3<!-- /COMMIT -->
-| [**SpicyThemes**](https://github.com/7xeh/SpicyThemes) | Spotify Extension | ![Stars](https://img.shields.io/github/stars/7xeh/SpicyThemes?style=flat-square&color=1DB954) | <!-- COMMIT:SpicyThemes -->`2026-08-02` v1.2.6<!-- /COMMIT --> |
-| [**CarX Blender Tools**](https://github.com/7xeh/CarX-Blender-Tools) | Blender Plugin | ![Stars](https://img.shields.io/github/stars/7xeh/CarX-Blender-Tools?style=flat-square&color=E87D0D) | <!-- COMMIT:CarX-Blender-Tools -->`2025-12-12` Add Zip<!-- /COMMIT --> |
-| [**NightyScripts**](https://github.com/7xeh/NightyScripts) | Automation / Scripts | ![Stars](https://img.shields.io/github/stars/7xeh/NightyScripts?style=flat-square&color=a855f7) | <!-- COMMIT:NightyScripts -->`2025-12-12` Rename DeleteDms to Message Cleaner dire<!-- /COMMIT --> |
+<!-- PROJECTS:START -->
+| Project | What it does | Latest | ★ | Updated |
+| :--- | :--- | :--- | ---: | :--- |
+| [**SpicyLyricTranslator**](https://github.com/7xeh/SpicyLyricTranslator) | A Spicetify extension that adds real-time translation to Spicy Lyrics. | `v2.1.3` | 36 | `2026-08-03` |
+| [**SpicyThemes**](https://github.com/7xeh/SpicyThemes) | A Spicetify extension that adds theming to Spicy Lyrics. | `v1.2.6` | 4 | `2026-08-02` |
+| [**SpotifyModernEQ**](https://github.com/7xeh/SpotifyModernEQ) | A modern multi-band equalizer Spicetify extension. | `v1.1.0` | 1 | `2026-07-07` |
+| [**CarX-Blender-Tools**](https://github.com/7xeh/CarX-Blender-Tools) | Blender plugin to make CarX Drift Racing map building better | — | 0 | `2025-12-12` |
+| [**NightyScripts**](https://github.com/7xeh/NightyScripts) | Automation scripts for the Nighty selfbot. | — | 0 | `2025-12-12` |
+<!-- PROJECTS:END -->
+
+<sub>Table refreshed daily by [a workflow](.github/workflows/update-readme.yml) — add a repo to <code>.github/scripts/update_readme.py</code> to feature it.</sub>
+
+---
+
+## 🧰 Toolbox
+
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Spicetify" src="https://img.shields.io/badge/Spicetify-1DB954?style=flat-square&logo=spotify&logoColor=white" />
+  <img alt="Blender" src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" />
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://github-stats-sepia-ten.vercel.app/api/top-langs/?username=7xeh&layout=compact&theme=radical&hide_border=true&bg_color=00000000&hide=html" alt="Most used languages" />
+</p>
 
 ---
 
 ## 📬 Collaborate
 
-The best way to reach me is to open an issue or PR on the relevant repository, or contact me via email at [7xeh@7xeh.dev](mailto:7xeh@7xeh.dev).
+Best path is an issue or PR on the relevant repo — that keeps the discussion where the code is.
+For anything else: [7xeh@7xeh.dev](mailto:7xeh@7xeh.dev).
