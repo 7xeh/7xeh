@@ -24,8 +24,6 @@
 | [**NightyScripts**](https://github.com/7xeh/NightyScripts) | Automation scripts for the Nighty selfbot. | — | 0 | `2025-12-12` |
 <!-- PROJECTS:END -->
 
-<sub>Table refreshed daily by [a workflow](.github/workflows/update-readme.yml) — add a repo to <code>.github/scripts/update_readme.py</code> to feature it.</sub>
-
 ---
 
 ## 🧰 Toolbox
