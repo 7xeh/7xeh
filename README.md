@@ -17,7 +17,7 @@
 <!-- PROJECTS:START -->
 | Project | What it does | Latest | ★ | Updated |
 | :--- | :--- | :--- | ---: | :--- |
-| [**SpicyLyricTranslator**](https://github.com/7xeh/SpicyLyricTranslator) | A Spicetify extension that adds real-time translation to Spicy Lyrics. | `v2.1.5` | 40 | `2026-09-02` |
+| [**SpicyLyricTranslator**](https://github.com/7xeh/SpicyLyricTranslator) | A Spicetify extension that adds real-time translation to Spicy Lyrics. | `v2.1.5` | 41 | `2026-09-02` |
 | [**SpicyThemes**](https://github.com/7xeh/SpicyThemes) | A Spicetify extension that adds theming to Spicy Lyrics. | `v1.2.9` | 5 | `2026-09-05` |
 | [**SpotifyModernEQ**](https://github.com/7xeh/SpotifyModernEQ) | A modern multi-band equalizer Spicetify extension. | `v1.1.0` | 2 | `2026-09-05` |
 | [**CarX-Blender-Tools**](https://github.com/7xeh/CarX-Blender-Tools) | Blender plugin to make CarX Drift Racing map building better | — | 0 | `2025-12-12` |
