@@ -8,6 +8,9 @@ repo = "SpicyThemes"
 repo = "SpotifyModernEQ"
 
 [[project]]
+repo = "QueueETA"
+
+[[project]]
 repo = "CarX-Blender-Tools"
 
 [[project]]
