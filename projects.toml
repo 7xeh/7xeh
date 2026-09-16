@@ -9,10 +9,8 @@ repo = "SpotifyModernEQ"
 
 [[project]]
 repo = "QueueETA"
+summary = "See Spotify queue time."
 
 [[project]]
 repo = "CarX-Blender-Tools"
 
-[[project]]
-repo = "NightyScripts"
-summary = "Automation scripts for the Nighty selfbot."
