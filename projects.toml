@@ -1,0 +1,15 @@
+[[project]]
+repo = "SpicyLyricTranslator"
+
+[[project]]
+repo = "SpicyThemes"
+
+[[project]]
+repo = "SpotifyModernEQ"
+
+[[project]]
+repo = "CarX-Blender-Tools"
+
+[[project]]
+repo = "NightyScripts"
+summary = "Automation scripts for the Nighty selfbot."

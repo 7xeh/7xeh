@@ -1,14 +1,4 @@
 #!/usr/bin/env python3
-"""Regenerate the Featured Work table in README.md from live GitHub data.
-
-Curated repo list lives in PROJECTS below -- add a repo there and it shows up.
-Everything else (description, stars, latest release, last push) is pulled from
-the API, so the table can't drift out of sync with reality.
-
-Run: python .github/scripts/update_readme.py
-Set GITHUB_TOKEN to avoid the 60 req/hr unauthenticated rate limit.
-"""
-
 from __future__ import annotations
 
 import json
@@ -19,25 +9,18 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 
+import projects as project_list
+
 OWNER = "7xeh"
 README = Path(__file__).resolve().parents[2] / "README.md"
 
 START = "<!-- PROJECTS:START -->"
 END = "<!-- PROJECTS:END -->"
 
-PROJECTS: list[dict[str, str]] = [
-    {"repo": "SpicyLyricTranslator"},
-    {"repo": "SpicyThemes"},
-    {"repo": "SpotifyModernEQ"},
-    {"repo": "CarX-Blender-Tools"},
-    {"repo": "NightyScripts", "summary": "Automation scripts for the Nighty selfbot."},
-]
-
 VERSION_TAG = re.compile(r"^v?\d+(\.\d+){1,3}$")
 
 
 def api(path: str) -> dict | None:
-    """GET an API path. Returns None on 404, raises on anything else."""
     request = urllib.request.Request(
         f"https://api.github.com{path}",
         headers={
@@ -64,7 +47,7 @@ def build_row(project: dict[str, str]) -> str:
 
     repo = api(f"/repos/{OWNER}/{name}")
     if repo is None:
-        raise SystemExit(f"{OWNER}/{name} does not exist -- fix the PROJECTS list.")
+        raise SystemExit(f"{OWNER}/{name} does not exist -- fix projects.toml.")
 
     summary = project.get("summary") or repo.get("description") or "—"
     summary = summary.replace("|", "\\|").strip()
@@ -82,7 +65,7 @@ def build_row(project: dict[str, str]) -> str:
 
 
 def build_table() -> str:
-    rows = [build_row(project) for project in PROJECTS]
+    rows = [build_row(project) for project in project_list.load()]
     return "\n".join(
         [
             "| Project | What it does | Latest | ★ | Updated |",
