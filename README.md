@@ -17,7 +17,7 @@
 <!-- PROJECTS:START -->
 | Project | What it does | Latest | ★ | Updated |
 | :--- | :--- | :--- | ---: | :--- |
-| [**SpicyLyricTranslator**](https://github.com/7xeh/SpicyLyricTranslator) | A Spicetify extension that adds real-time translation to Spicy Lyrics. | `v2.2.0` | 44 | `2026-09-27` |
+| [**SpicyLyricTranslator**](https://github.com/7xeh/SpicyLyricTranslator) | A Spicetify extension that adds real-time translation to Spicy Lyrics. | `v2.2.1` | 44 | `2026-09-27` |
 | [**SpicyThemes**](https://github.com/7xeh/SpicyThemes) | A Spicetify extension that adds theming to Spicy Lyrics. | `v1.3.8` | 7 | `2026-09-27` |
 | [**SpotifyModernEQ**](https://github.com/7xeh/SpotifyModernEQ) | A modern multi-band equalizer Spicetify extension. | `v1.1.0` | 2 | `2026-09-05` |
 | [**QueueETA**](https://github.com/7xeh/QueueETA) | See Spotify queue time. | `v1.0.0` | 2 | `2026-09-05` |
