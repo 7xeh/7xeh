@@ -33,12 +33,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
-          python-version: "3.12"
+          python-version: "3.13"
 
       - name: Update projects.toml
         env:
@@ -67,13 +67,13 @@ jobs:
           ACTION: ${{ inputs.action }}
           REPO: ${{ inputs.repo }}
         run: |
-          if git diff --quiet; then
+          if git diff --quiet && [ -z "$(git ls-files --others --exclude-standard -- assets)" ]; then
             echo "Nothing changed."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add projects.toml README.md
+          git add projects.toml README.md assets
           git commit -m "chore(projects): $ACTION $REPO [skip ci]"
           git pull --rebase
           git push

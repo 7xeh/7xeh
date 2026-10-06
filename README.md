@@ -1,48 +1,35 @@
-<h1 align="center">7xeh</h1>
+<a href="https://7xeh.dev"><img alt="7Softworks" src="./assets/banner.webp" width="100%" /></a>
+
+<p align="center">Sup nerd. I build Spicetify extensions, Blender tooling, and Windows automation scripts.</p>
 
 <p align="center">
-  Sup nerd. I build Spicetify extensions, Blender tooling, and Windows automation scripts.
+  <a href="https://7xeh.dev"><img alt="Website" src="https://img.shields.io/badge/7xeh.dev-ff3ea5?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1d0f22" /></a>
+  <a href="mailto:7xeh@7xeh.dev"><img alt="Email" src="https://img.shields.io/badge/7xeh@7xeh.dev-d946ef?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=1d0f22" /></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=7xeh&style=for-the-badge&color=8b5cf6&label=views" />
 </p>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" /><img alt="" src="./assets/divider-dark.svg" width="100%" /></picture>
+
+### ✦ Featured work
 
 <p align="center">
-  <a href="https://7xeh.dev"><img alt="Website" src="https://img.shields.io/badge/7xeh.dev-a855f7?style=flat-square&logo=firefoxbrowser&logoColor=white" /></a>
-  <a href="mailto:7xeh@7xeh.dev"><img alt="Email" src="https://img.shields.io/badge/Email-333?style=flat-square&logo=maildotru&logoColor=white" /></a>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=7xeh&style=flat-square&color=a855f7&label=Views" />
+<a href="https://github.com/7xeh/SpicyLyricTranslator"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/SpicyLyricTranslator-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/cards/SpicyLyricTranslator-light.svg" /><img alt="SpicyLyricTranslator: A Spicetify extension that adds real-time translation to Spicy Lyrics." src="./assets/cards/SpicyLyricTranslator-dark.svg" width="49%" /></picture></a>
+<a href="https://github.com/7xeh/SpicyThemes"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/SpicyThemes-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/cards/SpicyThemes-light.svg" /><img alt="SpicyThemes: A Spicetify extension that adds theming to Spicy Lyrics." src="./assets/cards/SpicyThemes-dark.svg" width="49%" /></picture></a>
+<br />
+<a href="https://github.com/7xeh/SpotifyModernEQ"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/SpotifyModernEQ-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/cards/SpotifyModernEQ-light.svg" /><img alt="SpotifyModernEQ: A modern multi-band equalizer Spicetify extension." src="./assets/cards/SpotifyModernEQ-dark.svg" width="49%" /></picture></a>
+<a href="https://github.com/7xeh/QueueETA"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/QueueETA-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/cards/QueueETA-light.svg" /><img alt="QueueETA: See Spotify queue time." src="./assets/cards/QueueETA-dark.svg" width="49%" /></picture></a>
+<br />
+<a href="https://github.com/7xeh/CarX-Blender-Tools"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/CarX-Blender-Tools-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/cards/CarX-Blender-Tools-light.svg" /><img alt="CarX-Blender-Tools: Blender plugin to make CarX Drift Racing map building better" src="./assets/cards/CarX-Blender-Tools-dark.svg" width="49%" /></picture></a>
 </p>
 
----
+### ✦ Toolbox
 
-## 🛠️ Featured Work
-
-<!-- PROJECTS:START -->
-| Project | What it does | Latest | ★ | Updated |
-| :--- | :--- | :--- | ---: | :--- |
-| [**SpicyLyricTranslator**](https://github.com/7xeh/SpicyLyricTranslator) | A Spicetify extension that adds real-time translation to Spicy Lyrics. | `v2.2.2` | 45 | `2026-10-03` |
-| [**SpicyThemes**](https://github.com/7xeh/SpicyThemes) | A Spicetify extension that adds theming to Spicy Lyrics. | `v1.4.0` | 9 | `2026-10-03` |
-| [**SpotifyModernEQ**](https://github.com/7xeh/SpotifyModernEQ) | A modern multi-band equalizer Spicetify extension. | `v1.1.0` | 2 | `2026-09-05` |
-| [**QueueETA**](https://github.com/7xeh/QueueETA) | See Spotify queue time. | `v1.0.0` | 2 | `2026-09-05` |
-| [**CarX-Blender-Tools**](https://github.com/7xeh/CarX-Blender-Tools) | Blender plugin to make CarX Drift Racing map building better | — | 0 | `2025-12-12` |
-<!-- PROJECTS:END -->
-
----
-
-## 🧰 Toolbox
-
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Spicetify" src="https://img.shields.io/badge/Spicetify-1DB954?style=flat-square&logo=spotify&logoColor=white" />
-  <img alt="Blender" src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" />
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,react,css,nodejs,bun,blender,windows,powershell,vscode,git,githubactions,cloudflare&theme=dark&perline=14" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,py,react,css,nodejs,bun,blender,windows,powershell,vscode,git,githubactions,cloudflare&theme=light&perline=14" /><img alt="TypeScript, JavaScript, Python, React, CSS, Node.js, Bun, Blender, Windows, PowerShell, VS Code, Git, GitHub Actions, Cloudflare" src="https://skillicons.dev/icons?i=ts,js,py,react,css,nodejs,bun,blender,windows,powershell,vscode,git,githubactions,cloudflare&theme=dark&perline=14" /></picture>
 </p>
 
-<p>
-  <img src="https://github-stats-sepia-ten.vercel.app/api/top-langs/?username=7xeh&layout=compact&theme=radical&hide_border=true&bg_color=00000000&hide=html" alt="Most used languages" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" /><img alt="" src="./assets/divider-dark.svg" width="100%" /></picture>
+
+<p align="center">
+  <sub>Want to collaborate? Open an issue or PR on the relevant repo — that keeps the discussion next to the code.<br />Anything else: <a href="mailto:7xeh@7xeh.dev">7xeh@7xeh.dev</a></sub>
 </p>
-
----
-
-## 📬 Collaborate
-
-Best path is an issue or PR on the relevant repo — that keeps the discussion where the code is.
-For anything else: [7xeh@7xeh.dev](mailto:7xeh@7xeh.dev).
