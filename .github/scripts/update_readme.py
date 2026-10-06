@@ -18,7 +18,7 @@ README = ROOT / "README.md"
 ASSETS = ROOT / "assets"
 
 INTRO = "Sup nerd. I build Spicetify extensions, Blender tooling, and Windows automation scripts."
-TOOLBOX = "%2C".join(
+TOOLBOX = ",".join(
     "ts js py react css nodejs bun blender windows powershell vscode git githubactions cloudflare".split()
 )
 TOOLBOX_ALT = (
@@ -113,11 +113,7 @@ def build_projects() -> str:
 
 def build_readme() -> str:
     divider = asset("divider", "", width="100%")
-    toolbox = picture(
-        f"https://skillicons.dev/icons?i={TOOLBOX}&theme=dark&perline=14",
-        f"https://skillicons.dev/icons?i={TOOLBOX}&theme=light&perline=14",
-        TOOLBOX_ALT,
-    )
+    toolbox = f'<img alt="{TOOLBOX_ALT}" src="https://skillicons.dev/icons?i={TOOLBOX}&perline=14" />'
     return f"""<a href="https://7xeh.dev"><img alt="7Softworks" src="./assets/banner.webp" width="100%" /></a>
 
 <p align="center">{INTRO}</p>
