@@ -107,6 +107,7 @@ def relative(iso: str) -> str:
 
 STAR = "M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"
 CLOCK = "M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"
+TAG = "M1 7.775V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 0 1 0 2.474l-5.026 5.026a1.75 1.75 0 0 1-2.474 0l-6.25-6.25A1.752 1.752 0 0 1 1 7.775Zm1.5 0c0 .066.026.13.073.177l6.25 6.25a.25.25 0 0 0 .354 0l5.025-5.025a.25.25 0 0 0 0-.354l-6.25-6.25a.25.25 0 0 0-.177-.073H2.75a.25.25 0 0 0-.25.25ZM6 5a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"
 REPO = "M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"
 
 
@@ -128,13 +129,14 @@ def card(theme: dict, *, name: str, summary: str, language: str | None,
     star_x = meta_x
     clock_x = star_x + 36 + len(str(stars)) * 7.4
 
+    updated = relative(pushed_at)
+    tag_x = clock_x + 36 + len(updated) * 6.6
+
     version_svg = ""
     if version:
-        vw = 18 + len(version) * 7.6
         version_svg = (
-            f'<g transform="translate({w - 24 - vw:.0f} 20)">'
-            f'<rect width="{vw:.0f}" height="24" rx="12" fill="{theme["accent"]}" fill-opacity="0.14" stroke="{theme["accent"]}" stroke-opacity="0.45"/>'
-            f'<text x="{vw / 2:.0f}" y="16.5" text-anchor="middle" class="mono ver">{escape(version)}</text></g>'
+            f'<path d="{TAG}" transform="translate({tag_x:.0f} 131)" fill="{theme["subtle"]}"/>'
+            f'<text x="{tag_x + 22:.0f}" y="144" class="sans meta">{escape(version)}</text>'
         )
 
     return f"""
@@ -146,7 +148,6 @@ def card(theme: dict, *, name: str, summary: str, language: str | None,
     .name{{font-size:19px;font-weight:700;fill:{theme['text']}}}
     .desc{{font-size:14px;fill:{theme['muted']}}}
     .meta{{font-size:12.5px;fill:{theme['muted']}}}
-    .ver{{font-size:12px;font-weight:600;fill:{theme['accent']}}}
     .edge{{animation:spin 6s linear infinite}}
     @keyframes spin{{to{{stroke-dashoffset:-1300}}}}
     {REDUCED_MOTION}
@@ -167,14 +168,14 @@ def card(theme: dict, *, name: str, summary: str, language: str | None,
   <rect class="edge" x="0.5" y="0.5" width="{w - 1}" height="{h - 1}" rx="16" fill="none" stroke="url(#edge)" stroke-width="1.5" stroke-dasharray="140 1160" stroke-linecap="round"/>
   <path d="{REPO}" transform="translate(24 21)" fill="{theme['subtle']}"/>
   <text x="48" y="37" class="sans name">{escape(name)}</text>
-  {version_svg}
   <text y="78" class="sans desc">{summary_svg}</text>
   <line x1="24" x2="{w - 24}" y1="116" y2="116" stroke="{theme['border']}"/>
   {lang_svg}
   <path d="{STAR}" transform="translate({star_x:.0f} 131)" fill="#e3b341"/>
   <text x="{star_x + 22:.0f}" y="144" class="sans meta">{stars}</text>
   <path d="{CLOCK}" transform="translate({clock_x:.0f} 131)" fill="{theme['subtle']}"/>
-  <text x="{clock_x + 22:.0f}" y="144" class="sans meta">{relative(pushed_at)}</text>
+  <text x="{clock_x + 22:.0f}" y="144" class="sans meta">{updated}</text>
+  {version_svg}
 </svg>"""
 
 
