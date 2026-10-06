@@ -18,8 +18,6 @@
 <br />
 <a href="https://github.com/7xeh/SpotifyModernEQ"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/SpotifyModernEQ-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/cards/SpotifyModernEQ-light.svg" /><img alt="SpotifyModernEQ: A modern multi-band equalizer Spicetify extension." src="./assets/cards/SpotifyModernEQ-dark.svg" width="49%" /></picture></a>
 <a href="https://github.com/7xeh/QueueETA"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/QueueETA-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/cards/QueueETA-light.svg" /><img alt="QueueETA: See Spotify queue time." src="./assets/cards/QueueETA-dark.svg" width="49%" /></picture></a>
-<br />
-<a href="https://github.com/7xeh/CarX-Blender-Tools"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/CarX-Blender-Tools-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/cards/CarX-Blender-Tools-light.svg" /><img alt="CarX-Blender-Tools: Blender plugin to make CarX Drift Racing map building better" src="./assets/cards/CarX-Blender-Tools-dark.svg" width="49%" /></picture></a>
 </p>
 
 ### ✦ Toolbox
