@@ -18,7 +18,9 @@ README = ROOT / "README.md"
 ASSETS = ROOT / "assets"
 
 INTRO = "Sup nerd. I build Spicetify extensions, Blender tooling, and Windows automation scripts."
-TOOLBOX = "ts,js,py,react,css,nodejs,bun,blender,windows,powershell,vscode,git,githubactions,cloudflare"
+TOOLBOX = "%2C".join(
+    "ts js py react css nodejs bun blender windows powershell vscode git githubactions cloudflare".split()
+)
 TOOLBOX_ALT = (
     "TypeScript, JavaScript, Python, React, CSS, Node.js, Bun, Blender, Windows, "
     "PowerShell, VS Code, Git, GitHub Actions, Cloudflare"
